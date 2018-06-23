@@ -1,0 +1,4 @@
+author : syarif developer
+framework : codeigniter
+model : mvc (models, view, controller)
+dibuat : juni 2018
